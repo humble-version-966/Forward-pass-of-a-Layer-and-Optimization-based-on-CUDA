@@ -27,9 +27,6 @@ I will be working on this project individually. We will release the code for pro
 * [Milestone 1: Rai Installation, CPU Convolution, Profiling](#milestone-1-rai-installation-cpu-convolution-profiling)
 * [Milestone 2: Baseline Convolutional Kernel](#milestone-2-baseline-convolutional-kernel)
 * [Milestone 3: GPU Convolution Kernel Optimizations](#milestone-3-gpu-convolution-kernel-optimizations)
-* [Optimizations](#optimizations)
-* [Rubric](#rubric)
-* [Final Competition](#final-competition)
 * [Appendix](#appendix)
 
 ## Milestone 1: Rai Installation, CPU convolution, Profiling
